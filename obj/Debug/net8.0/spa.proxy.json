@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\edson\\source\\repos\\EjemploAPI",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

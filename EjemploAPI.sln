@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploAPI", "EjemploAPI.csproj", "{75B7E581-34E8-466D-8C90-CBCA654AFA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negoci", "..\Negoci\Negoci.csproj", "{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negociador", "..\Negociador\Negociador.csproj", "{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B7E581-34E8-466D-8C90-CBCA654AFA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B7E581-34E8-466D-8C90-CBCA654AFA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B7E581-34E8-466D-8C90-CBCA654AFA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B7E581-34E8-466D-8C90-CBCA654AFA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1169084D-E92B-4384-9217-897876355BA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edson\\source\\repos\\EjemploAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCE0F2-6D4B-4CAF-B6B1-D0A0C9A355A3}|..\\Negociador\\Negociador.csproj|c:\\users\\edson\\source\\repos\\negociador\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}|..\\Negoci\\Negoci.csproj|c:\\users\\edson\\source\\repos\\negoci\\dataaccess\\classdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7E581-34E8-466D-8C90-CBCA654AFA55}|EjemploAPI.csproj|c:\\users\\edson\\source\\repos\\ejemploapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7E581-34E8-466D-8C90-CBCA654AFA55}|EjemploAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}|..\\Negoci\\Negoci.csproj|c:\\users\\edson\\source\\repos\\negoci\\service\\iclasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}|..\\Negoci\\Negoci.csproj|c:\\users\\edson\\source\\repos\\negoci\\cgeneralog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF7BE6-000D-4D51-BA1F-CBAD3DD072FD}|..\\Negoci\\Negoci.csproj|c:\\users\\edson\\source\\repos\\negoci\\models\\cusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7E581-34E8-466D-8C90-CBCA654AFA55}|EjemploAPI.csproj|c:\\users\\edson\\source\\repos\\ejemploapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75B7E581-34E8-466D-8C90-CBCA654AFA55}|EjemploAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\Negociador\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Negociador\\Class1.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\Negociador\\Class1.cs",
+              "RelativeToolTip": "..\\Negociador\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:22:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\EjemploAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\EjemploAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:55:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\EjemploAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\EjemploAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T21:38:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iClaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\Negoci\\Service\\iClaseDAL.cs",
+              "RelativeDocumentMoniker": "..\\Negoci\\Service\\iClaseDAL.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\Negoci\\Service\\iClaseDAL.cs",
+              "RelativeToolTip": "..\\Negoci\\Service\\iClaseDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:28:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\Negoci\\Models\\cUsuario.cs",
+              "RelativeDocumentMoniker": "..\\Negoci\\Models\\cUsuario.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\Negoci\\Models\\cUsuario.cs",
+              "RelativeToolTip": "..\\Negoci\\Models\\cUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:18:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\Negoci\\DataAccess\\ClassDAL.cs",
+              "RelativeDocumentMoniker": "..\\Negoci\\DataAccess\\ClassDAL.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\Negoci\\DataAccess\\ClassDAL.cs",
+              "RelativeToolTip": "..\\Negoci\\DataAccess\\ClassDAL.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:17:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cGeneraLog.cs",
+              "DocumentMoniker": "C:\\Users\\edson\\source\\repos\\Negoci\\cGeneraLog.cs",
+              "RelativeDocumentMoniker": "..\\Negoci\\cGeneraLog.cs",
+              "ToolTip": "C:\\Users\\edson\\source\\repos\\Negoci\\cGeneraLog.cs",
+              "RelativeToolTip": "..\\Negoci\\cGeneraLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:12:02.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
